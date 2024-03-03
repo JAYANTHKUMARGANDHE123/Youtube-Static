@@ -1,0 +1,17 @@
+<html>
+  <head>
+    <!-- Material Icons -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+    <!-- CSS File -->
+    <link rel="stylesheet" href="styles/index.css" />
+    <title>Youtube Clone with HTML & CSS</title>
+  </head>
+  <body>
+      <header class="header">.</header>
+      <main>
+          <div class="side-bar">.</div>
+          <div class="content">.</div>
+      </main>
+  <!-- Main Body Ends -->
+</body>
+</html>
